@@ -1,9 +1,6 @@
-// 
-// Name: Buff, David
-// Project: #2
-// Due: 10/30/2014
-// Course: CS-245-01-w14 
-// 
+//
+//Dvaid Buff 
+//
 // Description: 
 // 		A simple calculator using a grid layout and swing.
 //
